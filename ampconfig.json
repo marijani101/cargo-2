@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.9.0",
+  "appInfo": {
+    "name": "boat",
+    "description": "",
+    "version": "4v02uxmy",
+    "id": "cksftft9s15530091bs6kjkpq0ug",
+    "url": "https://app.amplication.com/cksftft9s15530091bs6kjkpq0ug",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cksftft9s15530091bs6kjkpq0ug"
+    }
+  }
+}
